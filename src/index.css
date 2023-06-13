@@ -2,10 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+  scroll-behavior: smooth;
+}
 
 body {
   font-family: 'Inter', sans-serif;
-  scroll-behavior: smooth;
+  
 }
 
 .akshar-font {
