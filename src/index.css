@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+*,
+body {
+  font-family: 'Inter', sans-serif;
+  scroll-behavior: smooth;
+}
+
 .imagees:hover {
   transform: translateY(-20px) !important;
   transition: 0.5s !important;
