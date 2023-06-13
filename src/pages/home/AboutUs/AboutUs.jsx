@@ -7,7 +7,7 @@ const AboutUs = () => {
                 <div id="about" className="bg-[#F2F2FE]">
                     <div className="text-center space-y-2 pt-4">
                         <p className="font-semibold">About Us</p>
-                        <h2 className={`text-[#0000FF] text-3xl font-semibold`}>What Are We?!</h2>
+                        <h2 className={`text-[#0000FF] text-3xl font-semibold akshar-font`}>What Are We?!</h2>
                         <p className="text-sm">
                             We are the pioneers of electrical services for both ecological and environmental cause.
                         </p>

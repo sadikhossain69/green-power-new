@@ -9,7 +9,7 @@ const Contact = () => {
             <section>
                 <div id="contact" className="container mx-auto bg-[#F2F2FE] py-10">
                     <div className="flex md:justify-between md:pl-44 2xl:pl-64 pb-10 justify-center">
-                        <p className={`text-2xl text-[#0454A9] font-semibold`}>Contact Us To Know More</p>
+                        <p className={`text-2xl text-[#0454A9] font-semibold akshar-font`}>Contact Us To Know More</p>
                         <p></p>
                     </div>
                     <div className="flex flex-col md:flex-row items-center">
