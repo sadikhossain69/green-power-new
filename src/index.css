@@ -2,10 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-*,
+
 body {
   font-family: 'Inter', sans-serif;
   scroll-behavior: smooth;
+}
+
+.akshar-font {
+  font-family: 'Akshar', sans-serif !important;
 }
 
 .imagees:hover {
