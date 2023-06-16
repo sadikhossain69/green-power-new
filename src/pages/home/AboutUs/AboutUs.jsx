@@ -26,9 +26,9 @@ const AboutUs = () => {
                                     </h1>
                                     <p className="mb-8 leading-relaxed">
                                         is a company that specializes in providing electrical services to both residential and commercial customers. They offer a wide range of electrical services, including installation, maintenance, and repair of electrical systems, as well as energy-efficient lighting solutions and renewable energy systems.</p>
-                                    <div className="flex justify-center">
+                                    <a href="#contact" className="flex justify-center">
                                         <button className="inline-flex text-white bg-primary border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg uppercase">Get In Touch</button>
-                                    </div>
+                                    </a>
                                 </div>
                             </Fade>
                         </div>

@@ -18,7 +18,7 @@ const OurServices = () => {
                             <Zoom>
                                 <img className="mx-auto" width={"90%"} src="service1.jpg"  alt="" />
                                 <p className="text-[#0000FF] font-semibold text-center">
-                                    Domestic-Commercial – Industrial – Agricultural – Installations
+                                    Domestic - Commercial – Agricultural – Installations
                                 </p>
                             </Zoom>
                         </span>
