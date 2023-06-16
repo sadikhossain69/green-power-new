@@ -36,9 +36,9 @@ function App() {
               <Navbar />
               <main className="lg:px-24">
                 <HeroSection />
+                <AboutUs />
                 <WhatWeDo />
                 <OurServices />
-                <AboutUs />
                 <LogoSlider />
                 <BigImage />
                 <Contact />

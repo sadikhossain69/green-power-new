@@ -17,7 +17,7 @@ const Contact = () => {
             email: data.email
         }
         console.log(data)
-        emailjs.send('service_chp0dkh', 'template_dvunn7h', contactData, 'Eesm4YiD0vqT9hRIr').then(res => {
+        emailjs.send('service_3ylae19', 'template_u1ytviq', contactData, 'KPBy6LdTdcW98s2qZ').then(res => {
             toast.success("Email Sent Successful")
             console.log(res)
             reset()
